@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohit Hedaoo
 - 👀 I’m interested in Coding <3
-- 🌱 I’m currently learning DSA by KK
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mohithedaoo2000@gmail.com
 
