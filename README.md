@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohit Hedaoo
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mohithedaoo2000@gmail.com
 
