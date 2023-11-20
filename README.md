@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohit Hedaoo.
-- :) My topics of interest are DSA, ML & DevOps.
+- My topics of interest are DSA, ML & DevOps.
 - 📫 How to reach me mohithedaoo2000@gmail.com
 
 <!---
