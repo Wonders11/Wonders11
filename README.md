@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohit Hedaoo.
-- My topics of interest are Machine Learning, NLP, GenAI & MLOps.
+- My topics of interest are DSA(Python),Machine Learning, NLP, GenAI & MLOps.
 - 📫 How to reach me mohithedaoo2000@gmail.com
 
 <!---
